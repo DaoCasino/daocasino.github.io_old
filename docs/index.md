@@ -1,4 +1,4 @@
-Dao.Casino
+<p style="text-align: center;"> #Dao.Casino </p>
 
 Blockchain Protocol for Gambling
 
