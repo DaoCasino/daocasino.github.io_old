@@ -19,7 +19,7 @@ This document discusses design and implementation of such system from social and
  
 
 
-## 1. Introduction
+# 1. Introduction
 
 DAO.casino is a protocol defining interactions between untrusted participants in the context of online gambling industry. This includes two levels: game level - player’s trust in a particular casino operator in the context of the game (provably fair gambling) and a business model level: i.e. game developer doesn’t have to trust casino operator to get rewarded. In short: all participants that are needed for the system to function don’t have to trust each other in order to cooperate.
 
