@@ -140,7 +140,7 @@ Integrate a system of replicable templates and incentivised audit to allow game 
 
 7. Autonomous Agents (contracts without superusers)
 
-2.1.1. Developers
+## 2.1.1. Developers
 
 Developers refers to both: game developers and contract developers. Whoever provides a functional piece of software automatically receives tokens to their EOA by the DAO.Casino system proportionally to the usage of this software. Independent game developers should be able to collaborate with platform operators easier, retain their IP rights in the game and a possibility to receive lifelong rewards for their work automatically. 
 
@@ -224,11 +224,6 @@ Using Ethereum based subcurrency instead of ether reduces the risk of attacks of
 
 As described above all the participants contributing to the ecosystem in one form or another are automatically rewarded with BET to their accounts. 
 
-**Legal Clarification**
-
-BET is a crucial component for the system to function but it doesn’t represent any inherent value, neither it is refundable. Access to the games released by DAO.Casino core team and the partner teams does not guarantee any future performance or value, since the games are also available on the testnet and are free open source software, BET is not speculative investment. 
-
-BET token holders don’t have any voting rights nor receive any continuing payments associated with it. DAO.Casino protocol fully relies on Ethereum which in itself is an experimental software, and BET is intended for people with experience with blockchain-based systems. 
 
 # 2.3. Core components and releases
 
@@ -470,7 +465,7 @@ Three issues need to be addressed for this to happen:
 
 ## Appendix 
 
-## [Crowdfunding, token and funds distribution ](https://docs.google.com/document/d/1w8AlvYM4eVsqUKlO6oV9unx99OAP4hsAbfznGYWnaCQ/edit)
+## [Crowdfunding, token and funds distribution ](https://github.com/DaoCasino/Whitepaper/blob/master/Crowdfunding%20and%20Token%20Distribution)
 
 # References
 
