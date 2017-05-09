@@ -46,7 +46,7 @@ Online gambling games cause distrust on the part of the players in most cases, h
 
 We can summarise existing issues in the online gambling industry as originating from the concentration of trust, in all the aspects of gambling industry from RNG to user balance account management, to developers access to the market as described in the introduction. 
 
-**Common problems experienced by the players: **
+**Common problems experienced by the players**
 
 * After transferring the money to the game account, it is not credited or it is stolen
 
@@ -60,7 +60,7 @@ We can summarise existing issues in the online gambling industry as originating 
 
 * The player can withdraw funds only on a certain day
 
-**Some of the existing issues in the market of online gambling**** that DAO.Casino protocol can solve:**
+**Some of the existing issues in the market of online gambling**** that DAO.Casino protocol can solve**
 
 * Risk of fraud on behalf of online casinos
 
@@ -104,7 +104,7 @@ Despite of Gas cost that is required for Ethereum powered software to run, the f
 
 Game’s front end can be stored either on the server or on the network using decentralised file storage systems such as IPFS or Ethereum’s native Swarm. Using Swarm will also allow to program the game to pay for it’s own front-end storage.
 
-**Dao.Casino Protocol Goals:**
+**Dao.Casino Protocol Goals**
 
 Remove the need in a trusted party in all aspects of online gambling industry, therefore:
 
@@ -124,7 +124,7 @@ Integrate a system of replicable templates and incentivised audit to allow game 
 
 ## 2.1. Roles
 
-**System Participants. **During initial design we identified a number of roles that are needed for the system to develop and to function. Some are common roles from the traditional online gambling industry i.e. casino operators, referral, contracted game developers, other roles (bankroll backers, random providers)  have been added to the decentralised architecture. 
+**System Participants.** During initial design we identified a number of roles that are needed for the system to develop and to function. Some are common roles from the traditional online gambling industry i.e. casino operators, referral, contracted game developers, other roles (bankroll backers, random providers)  have been added to the decentralised architecture. 
 
 1. Game developers
 
