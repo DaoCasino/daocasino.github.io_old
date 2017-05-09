@@ -45,7 +45,7 @@ Online gambling games cause distrust on the part of the players in most cases, h
 
 We can summarise existing issues in the online gambling industry as originating from the concentration of trust, in all the aspects of gambling industry from RNG to user balance account management, to developers access to the market as described in the introduction. 
 
-**Common problems experienced by the players: **
+**Common problems experienced by the players**
 
 * After transferring the money to the game account, it is not credited or it is stolen
 
@@ -59,7 +59,7 @@ We can summarise existing issues in the online gambling industry as originating 
 
 * The player can withdraw funds only on a certain day
 
-**Some of the existing issues in the market of online gambling**** that DAO.Casino protocol can solve:**
+**Some of the existing issues in the market of online gambling**** that DAO.Casino protocol can solve**
 
 * Risk of fraud on behalf of online casinos
 
@@ -121,7 +121,7 @@ Remove the need in a trusted party in all aspects of online gambling industry, t
 
 Integrate a system of replicable templates and incentivised audit to allow game developers not familiar with Solidity to benefit from a new value transfer paradigm that Ethereum offers.
 
-## 2.1. Roles
+# 2.1. Roles
 
 **System Participants. **During initial design we identified a number of roles that are needed for the system to develop and to function. Some are common roles from the traditional online gambling industry i.e. casino operators, referral, contracted game developers, other roles (bankroll backers, random providers)  have been added to the decentralised architecture. 
 
@@ -139,7 +139,7 @@ Integrate a system of replicable templates and incentivised audit to allow game 
 
 7. Autonomous Agents (contracts without superusers)
 
-2.1.1. Developers
+## 2.1.1. Developers
 
 Developers refers to both: game developers and contract developers. Whoever provides a functional piece of software automatically receives tokens to their EOA by the DAO.Casino system proportionally to the usage of this software. Independent game developers should be able to collaborate with platform operators easier, retain their IP rights in the game and a possibility to receive lifelong rewards for their work automatically. 
 
@@ -469,7 +469,7 @@ Three issues need to be addressed for this to happen:
 
 ## Appendix 
 
-## [Crowdfunding, token and funds distribution ](https://docs.google.com/document/d/1w8AlvYM4eVsqUKlO6oV9unx99OAP4hsAbfznGYWnaCQ/edit)
+## [Crowdfunding, token and funds distribution ](https://github.com/DaoCasino/Whitepaper/blob/master/Crowdfunding%20and%20Token%20Distribution)
 
 # References
 
