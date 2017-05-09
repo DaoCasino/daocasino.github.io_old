@@ -2,9 +2,9 @@ Dao.Casino
 
 Blockchain Protocol for Gambling
 
-Konstantin Lomashuk, Ilya Tarutov, Ksenya Bellman
+Konstantin Lomashuk, Ilya Tarutov
 
-Draft. Last edited by Ksenya 4rd of May 2017
+Draft. Last edited by Ksenya 8th of May 2017
 
 [https://dao.casino](https://dao.casino)
 
